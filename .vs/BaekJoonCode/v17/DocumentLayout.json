@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaekJoon1940.cpp",
+              "DocumentMoniker": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1940.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1940.cpp",
+              "ToolTip": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1940.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon1940.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T03:44:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaekJoon1546.cpp",
+              "DocumentMoniker": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1546.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1546.cpp",
+              "ToolTip": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1546.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon1546.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T03:44:54.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
