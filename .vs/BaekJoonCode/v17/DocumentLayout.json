@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1253.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon12891.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon12891.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +36,28 @@
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1253.cpp",
               "ToolTip": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1253.cpp",
               "RelativeToolTip": "BaekJoonCode\\BaekJoon1253.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-20T04:07:34.073Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BaekJoon12891.cpp",
+              "DocumentMoniker": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon12891.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon12891.cpp",
+              "ToolTip": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon12891.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon12891.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowGYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T01:51:59.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BaekJoon1940.cpp",
               "DocumentMoniker": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1940.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1940.cpp",
