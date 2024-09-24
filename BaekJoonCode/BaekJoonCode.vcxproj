@@ -135,11 +135,13 @@
     <ClCompile Include="BaekJoon1253.cpp" />
     <ClCompile Include="BaekJoon12891.cpp" />
     <ClCompile Include="BaekJoon1546.cpp" />
+    <ClCompile Include="BaekJoon17298.cpp" />
     <ClCompile Include="BaekJoon1874.cpp" />
     <ClCompile Include="BaekJoon1940.cpp" />
     <ClCompile Include="BaekJoon2018.cpp" />
     <ClCompile Include="BaekJoon2750.cpp" />
     <ClCompile Include="BeakJoon11660.cpp" />
+    <ClCompile Include="BeakJoon2164.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
