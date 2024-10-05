@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="BaekJoon10986.cpp" />
     <ClCompile Include="BaekJoon11003.cpp" />
+    <ClCompile Include="BaekJoon11004.cpp" />
     <ClCompile Include="BaekJoon11659.cpp" />
     <ClCompile Include="BaekJoon11720.cpp" />
     <ClCompile Include="BaekJoon1253.cpp" />
