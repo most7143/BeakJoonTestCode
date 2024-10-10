@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11004.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon11004.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon2751.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon2751.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BeakJoon11399.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaekJoon11004.cpp",
-              "DocumentMoniker": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11004.cpp",
-              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon11004.cpp",
-              "ToolTip": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11004.cpp",
-              "RelativeToolTip": "BaekJoonCode\\BaekJoon11004.cpp",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDkAAAAPAAAAAAAAAA==",
+              "Title": "BaekJoon2751.cpp",
+              "DocumentMoniker": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon2751.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon2751.cpp",
+              "ToolTip": "E:\\User\\Documents\\GitHub\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon2751.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon2751.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwE4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-03T03:18:22.312Z",
+              "WhenOpened": "2024-10-10T04:43:40.754Z",
               "EditorCaption": ""
             },
             {
