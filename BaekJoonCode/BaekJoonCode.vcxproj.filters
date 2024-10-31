@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BaekJoon2750.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="BubbleSort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -63,13 +60,13 @@
     <ClCompile Include="BaekJoon17298.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BeakJoon2164.cpp">
+    <ClCompile Include="BaekJoon2164.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BeakJoon11286.cpp">
+    <ClCompile Include="BaekJoon11286.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BeakJoon2750.cpp">
+    <ClCompile Include="BaekJoon2750.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BaekJoon1377.cpp">
@@ -87,7 +84,7 @@
     <ClCompile Include="BaekJoon11724.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BeakJoon2023.cpp">
+    <ClCompile Include="BaekJoon2023.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BaekJoon13023.cpp">
@@ -117,7 +114,13 @@
     <ClCompile Include="BaekJoon1715.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="BaekJoon1744.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon1931.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon1541.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
