@@ -1,51 +1,5 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(AlgorithmCode.vcxproj, BaekJoonCode2.vcxproj, BaekJoonCode3.vcxproj, BaekJoonCodes.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
   BaekJoon1033.cpp
-E:\User\Documents\GitHub\BeakJoonTestCode\BaekJoonCode\BaekJoon1033.cpp(70,10): warning C4244: 'return': '__int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244: '초기화 중': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:         with
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:         [
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:             _Ty=__int64
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:         ]
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:         and
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:         [
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:             _Ty=int
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47): warning C4244:         ]
-  (소스 파일 'BaekJoon1033.cpp'을(를) 컴파일하는 중)
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(142,47):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          E:\User\Documents\GitHub\BeakJoonTestCode\BaekJoonCode\BaekJoon1033.cpp(31,28):
-          컴파일되는 함수 템플릿 인스턴스화 'std::tuple<int,int,int>::tuple<__int64,__int64,__int64,0>(std::tuple<__int64,__int64,__int64> &&) noexcept'에 대한 참조를 확인하세요.
-              E:\User\Documents\GitHub\BeakJoonTestCode\BaekJoonCode\BaekJoon1033.cpp(31,17):
-              'main'에서 'std::tuple<int,int,int>::tuple'에 대한 첫 번째 참조를 확인하세요.
-          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(385,16):
-          컴파일되는 함수 템플릿 인스턴스화 'std::tuple<int,int,int>::tuple<std::_Unpack_tuple_t,std::tuple<__int64,__int64,__int64>,0>(_Tag,_Tpl &&)'에 대한 참조를 확인하세요.
-          with
-          [
-              _Tag=std::_Unpack_tuple_t,
-              _Tpl=std::tuple<__int64,__int64,__int64>
-          ]
-          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(319,16):
-          컴파일되는 함수 템플릿 인스턴스화 'std::tuple<int,int,int>::tuple<std::_Unpack_tuple_t,_Ty,0,1,2,0>(_Tag,_Tpl &&,std::integer_sequence<size_t,0,1,2>)'에 대한 참조를 확인하세요.
-          with
-          [
-              _Ty=std::tuple<__int64,__int64,__int64>,
-              _Tag=std::_Unpack_tuple_t,
-              _Tpl=std::tuple<__int64,__int64,__int64>
-          ]
-          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(1001,12):
-          컴파일되는 함수 템플릿 인스턴스화 'std::tuple<int,int,int>::tuple<std::_Exact_args_t,__int64,__int64,__int64,0>(_Tag,_This2 &&,__int64 &&,__int64 &&)'에 대한 참조를 확인하세요.
-          with
-          [
-              _Tag=std::_Exact_args_t,
-              _This2=__int64
-          ]
-          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\tuple(312,102):
-          컴파일되는 함수 템플릿 인스턴스화 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)'에 대한 참조를 확인하세요.
-          with
-          [
-              _This=int,
-              _Ty=__int64,
-              _Other=__int64
-          ]
-  
+  BaekJoon21568.cpp
+  코드를 생성하고 있습니다...
   BaekJoonCode.vcxproj -> E:\User\Documents\GitHub\BeakJoonTestCode\x64\Debug\BaekJoonCode.exe
