@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BaekJoon1516.cpp" />
+    <ClCompile Include="BaekJoon1753.cpp" />
     <ClCompile Include="BaekJoon1948.cpp" />
     <ClCompile Include="BaekJoon2252.cpp" />
     <ClCompile Include="BaekJoon1043.cpp" />
