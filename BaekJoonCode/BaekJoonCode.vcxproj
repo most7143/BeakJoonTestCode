@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BaekJoon1068.cpp" />
     <ClCompile Include="BaekJoon11403.cpp" />
     <ClCompile Include="BaekJoon11404.cpp" />
     <ClCompile Include="BaekJoon11657.cpp" />
@@ -183,8 +184,8 @@
     <ClCompile Include="BaekJoon2343.cpp" />
     <ClCompile Include="BaekJoon2751.cpp" />
     <ClCompile Include="BaekJoon11286.cpp" />
-    <ClCompile Include="BeakJoon11399.cpp" />
-    <ClCompile Include="BeakJoon11660.cpp" />
+    <ClCompile Include="BaekJoon11399.cpp" />
+    <ClCompile Include="BaekJoon11660.cpp" />
     <ClCompile Include="BaekJoon1300.cpp" />
     <ClCompile Include="BaekJoon2023.cpp" />
     <ClCompile Include="BaekJoon2164.cpp" />
@@ -194,6 +195,7 @@
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="BaekJoon1260.cpp" />
+    <ClCompile Include="BaekJoon11725.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
