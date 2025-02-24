@@ -249,7 +249,7 @@
     <ClCompile Include="BaekJoon2775.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BackJoon1010.cpp">
+    <ClCompile Include="BaekJoon1010.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BaekJoon13251.cpp">
@@ -258,13 +258,16 @@
     <ClCompile Include="BaekJoon1722.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BackJoon1256.cpp">
+    <ClCompile Include="BaekJoon1256.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BackJoon1947.cpp">
+    <ClCompile Include="BaekJoon1947.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BackJoon1463.cpp">
+    <ClCompile Include="BaekJoon1463.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon14501.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
