@@ -24,7 +24,7 @@
     <ProjectGuid>{c812d390-a7f3-4695-bd4e-ba346832c733}</ProjectGuid>
     <RootNamespace>BaekJoonCode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>BaekJoonCode2</ProjectName>
+    <ProjectName>BaekJoonCode3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -202,6 +202,7 @@
     <ClCompile Include="BaekJoon2178.cpp" />
     <ClCompile Include="BaekJoon2251.cpp" />
     <ClCompile Include="BaekJoon2343.cpp" />
+    <ClCompile Include="BaekJoon2606.cpp" />
     <ClCompile Include="BaekJoon2751.cpp" />
     <ClCompile Include="BaekJoon11286.cpp" />
     <ClCompile Include="BaekJoon11399.cpp" />

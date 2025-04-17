@@ -1,5 +1,81 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(AlgorithmCode.vcxproj, BaekJoonCode.vcxproj, BaekJoonCode3.vcxproj, BaekJoonCodes.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(AlgorithmCode.vcxproj, BaekJoonCode.vcxproj, BaekJoonCode2.vcxproj, BaekJoonCodes.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  BaekJoon1010.cpp
   BaekJoon10844.cpp
+  BaekJoon11726.cpp
+  BaekJoon1256.cpp
   BaekJoon13398.cpp
+  BaekJoon1463.cpp
+  BaekJoon1947.cpp
+  BaekJoon10505.cpp
+  BaekJoon1068.cpp
+  BaekJoon10868.cpp
+  BaekJoon11050.cpp
+  BaekJoon11051.cpp
+  BaekJoon11403.cpp
+  BaekJoon11404.cpp
+  BaekJoon11437.cpp
+  BaekJoon11438.cpp
+  BaekJoon11657.cpp
+  BaekJoon1197.cpp
+  BaekJoon1219.cpp
+  BaekJoon13251.cpp
   코드를 생성하고 있습니다...
-  BaekJoonCode.vcxproj -> E:\User\Documents\GitHub\BeakJoonTestCode\x64\Debug\BaekJoonCode2.exe
+  컴파일하고 있습니다...
+  BaekJoon1389.cpp
+  BaekJoon1414.cpp
+  BaekJoon14425.cpp
+  BaekJoon14501.cpp
+  BaekJoon1516.cpp
+  BaekJoon1722.cpp
+  BaekJoon17472.cpp
+  BaekJoon1753.cpp
+  BaekJoon1854.cpp
+  BaekJoon1916.cpp
+  BaekJoon1948.cpp
+  BaekJoon1991.cpp
+  BaekJoon2042.cpp
+  BaekJoon2193.cpp
+  BaekJoon2252.cpp
+  BaekJoon1043.cpp
+  BaekJoon1016.cpp
+  BaekJoon1033.cpp
+  BaekJoon11047.cpp
+  BaekJoon1167.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  BaekJoon11689.cpp
+  BaekJoon11724.cpp
+  BaekJoon13023.cpp
+  BaekJoon1325.cpp
+  BaekJoon1456.cpp
+  BaekJoon1707.cpp
+  BaekJoon1715.cpp
+  BaekJoon1717.cpp
+  BaekJoon1744.cpp
+  BaekJoon1747.cpp
+  BaekJoon18352.cpp
+  BaekJoon1850.cpp
+  BaekJoon1920.cpp
+  BaekJoon1929.cpp
+  BaekJoon1931.cpp
+  BaekJoon1934.cpp
+  BaekJoon1976.cpp
+  BaekJoon21568.cpp
+  BaekJoon2178.cpp
+  BaekJoon2251.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  BaekJoon2343.cpp
+  BaekJoon2606.cpp
+  BaekJoon11286.cpp
+  BaekJoon11399.cpp
+  BaekJoon11660.cpp
+  BaekJoon1300.cpp
+  BaekJoon2023.cpp
+  BaekJoon2164.cpp
+  BaekJoon1541.cpp
+  BaekJoon2775.cpp
+  BaekJoon1260.cpp
+  BaekJoon11725.cpp
+  코드를 생성하고 있습니다...
+  BaekJoonCode.vcxproj -> E:\User\Documents\GitHub\BeakJoonTestCode\x64\Debug\BaekJoonCode3.exe
