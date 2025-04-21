@@ -288,5 +288,8 @@
     <ClCompile Include="BaekJoon2667.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BaekJoon1012.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
