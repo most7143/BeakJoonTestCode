@@ -215,6 +215,7 @@
     <ClCompile Include="BaekJoon2750.cpp" />
     <ClCompile Include="BaekJoon1541.cpp" />
     <ClCompile Include="BaekJoon2775.cpp" />
+    <ClCompile Include="BaekJoon7576cpp.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
