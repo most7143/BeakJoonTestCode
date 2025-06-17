@@ -136,6 +136,7 @@
     <ClCompile Include="BaekJoon1181.cpp" />
     <ClCompile Include="BaekJoon1256.cpp" />
     <ClCompile Include="BaekJoon13398.cpp" />
+    <ClCompile Include="BaekJoon1439.cpp" />
     <ClCompile Include="BaekJoon14502.cpp" />
     <ClCompile Include="BaekJoon1463.cpp" />
     <ClCompile Include="BaekJoon1947.cpp" />
@@ -167,6 +168,7 @@
     <ClCompile Include="BaekJoon2042.cpp" />
     <ClCompile Include="BaekJoon2193.cpp" />
     <ClCompile Include="BaekJoon2206.cpp" />
+    <ClCompile Include="BaekJoon2217.cpp" />
     <ClCompile Include="BaekJoon2252.cpp" />
     <ClCompile Include="BaekJoon1043.cpp" />
     <ClCompile Include="BaekJoon1016.cpp" />
@@ -208,6 +210,7 @@
     <ClCompile Include="BaekJoon2251.cpp" />
     <ClCompile Include="BaekJoon2343.cpp" />
     <ClCompile Include="BaekJoon2468.cpp" />
+    <ClCompile Include="BaekJoon2579.cpp" />
     <ClCompile Include="BaekJoon2606.cpp" />
     <ClCompile Include="BaekJoon2667.cpp" />
     <ClCompile Include="BaekJoon2720.cpp" />
@@ -223,10 +226,12 @@
     <ClCompile Include="BaekJoon2775.cpp" />
     <ClCompile Include="BaekJoon2839.cpp" />
     <ClCompile Include="BaekJoon4963.cpp" />
+    <ClCompile Include="BaekJoon5585.cpp" />
     <ClCompile Include="BaekJoon7562.cpp" />
     <ClCompile Include="BaekJoon7569.cpp" />
     <ClCompile Include="BaekJoon7576cpp.cpp" />
     <ClCompile Include="BaekJoon9095.cpp" />
+    <ClCompile Include="BaekJoon1789.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
