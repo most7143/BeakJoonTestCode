@@ -291,7 +291,7 @@
     <ClCompile Include="BaekJoon1012.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BaekJoon7576cpp.cpp">
+    <ClCompile Include="BaekJoon7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BaekJoon14502.cpp">
@@ -370,6 +370,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BaekJoon1152.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon11000.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon2675.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon10809.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

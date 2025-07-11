@@ -24,7 +24,7 @@
     <ProjectGuid>{c812d390-a7f3-4695-bd4e-ba346832c733}</ProjectGuid>
     <RootNamespace>BaekJoonCode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>BaekJoonCode2</ProjectName>
+    <ProjectName>BaekJoonCode</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -135,8 +135,10 @@
     <ClCompile Include="BaekJoon1012.cpp" />
     <ClCompile Include="BaekJoon1026.cpp" />
     <ClCompile Include="BaekJoon10610.cpp" />
+    <ClCompile Include="BaekJoon10809.cpp" />
     <ClCompile Include="BaekJoon10816.cpp" />
     <ClCompile Include="BaekJoon10844.cpp" />
+    <ClCompile Include="BaekJoon11000.cpp" />
     <ClCompile Include="BaekJoon1152.cpp" />
     <ClCompile Include="BaekJoon11726.cpp" />
     <ClCompile Include="BaekJoon1181.cpp" />
@@ -223,6 +225,7 @@
     <ClCompile Include="BaekJoon2579.cpp" />
     <ClCompile Include="BaekJoon2606.cpp" />
     <ClCompile Include="BaekJoon2667.cpp" />
+    <ClCompile Include="BaekJoon2675.cpp" />
     <ClCompile Include="BaekJoon2720.cpp" />
     <ClCompile Include="BaekJoon2751.cpp" />
     <ClCompile Include="BaekJoon11286.cpp" />
@@ -239,7 +242,7 @@
     <ClCompile Include="BaekJoon5585.cpp" />
     <ClCompile Include="BaekJoon7562.cpp" />
     <ClCompile Include="BaekJoon7569.cpp" />
-    <ClCompile Include="BaekJoon7576cpp.cpp" />
+    <ClCompile Include="BaekJoon7576.cpp" />
     <ClCompile Include="BaekJoon9095.cpp" />
     <ClCompile Include="BaekJoon1789.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
