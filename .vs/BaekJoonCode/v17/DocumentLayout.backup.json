@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1912.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaekJoonCode\\BaekJoon1912.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon14502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon14502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11053.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon11053.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BackJoon1049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BackJoon1049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon1987.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BackJoon1049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BackJoon1049.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10814.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon10814.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -40,10 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon14502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|solutionrelative:BaekJoonCode\\BaekJoon14502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C812D390-A7F3-4695-BD4E-BA346832C733}|BaekJoonCode\\BaekJoonCode.vcxproj|D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -105,7 +109,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BaekJoon2667.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon2667.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon2667.cpp",
@@ -114,12 +118,11 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAAAEkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-18T04:05:20.055Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "BaekJoon14502.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon14502.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon14502.cpp",
@@ -133,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BaekJoon7576.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon7576.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon7576.cpp",
@@ -142,38 +145,24 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T04:19:24.477Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaekJoon11053.cpp",
-              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11053.cpp",
-              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon11053.cpp",
-              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11053.cpp*",
-              "RelativeToolTip": "BaekJoonCode\\BaekJoon11053.cpp*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwBoAAAAaAAAAAAAAAA==",
+              "Title": "BaekJoon1912.cpp",
+              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1912.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1912.cpp",
+              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1912.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon1912.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T04:39:32.256Z",
+              "WhenOpened": "2025-09-24T03:29:16.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaekJoon1149.cpp",
-              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1149.cpp",
-              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1149.cpp",
-              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1149.cpp",
-              "RelativeToolTip": "BaekJoonCode\\BaekJoon1149.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T03:59:06.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BaekJoon13549.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon13549.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon13549.cpp",
@@ -181,51 +170,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon13549.cpp",
               "ViewState": "AgIAABoAAAAAAAAAAAAywDYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-26T01:51:20.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T01:51:20.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaekJoon1152.cpp",
-              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1152.cpp",
-              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1152.cpp",
-              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1152.cpp",
-              "RelativeToolTip": "BaekJoonCode\\BaekJoon1152.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-07T23:51:42.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaekJoon1987.cpp",
-              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1987.cpp",
-              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1987.cpp",
-              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1987.cpp",
-              "RelativeToolTip": "BaekJoonCode\\BaekJoon1987.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwDYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T01:03:00.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaekJoon10814.cpp",
-              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10814.cpp",
-              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon10814.cpp",
-              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10814.cpp",
-              "RelativeToolTip": "BaekJoonCode\\BaekJoon10814.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T00:49:53.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BackJoon1049.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BackJoon1049.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BackJoon1049.cpp",
@@ -238,7 +187,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaekJoon11053.cpp",
+              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11053.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon11053.cpp",
+              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11053.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon11053.cpp",
+              "ViewState": "AgIAABUAAACA2QsFUuwbwCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T04:39:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaekJoon1149.cpp",
+              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1149.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1149.cpp",
+              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1149.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon1149.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T03:59:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaekJoon1152.cpp",
+              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1152.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1152.cpp",
+              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1152.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon1152.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T23:51:42.568Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "BaekJoon1987.cpp",
+              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1987.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1987.cpp",
+              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1987.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon1987.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T01:03:00.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaekJoon10814.cpp",
+              "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10814.cpp",
+              "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon10814.cpp",
+              "ToolTip": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10814.cpp",
+              "RelativeToolTip": "BaekJoonCode\\BaekJoon10814.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T00:49:53.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BaekJoon14916.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon14916.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon14916.cpp",
@@ -246,12 +256,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon14916.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-25T02:40:03.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T02:40:03.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BackJoon11650.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BackJoon11650.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BackJoon11650.cpp",
@@ -259,12 +268,11 @@
               "RelativeToolTip": "BaekJoonCode\\BackJoon11650.cpp",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T03:19:43.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T03:19:43.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BaekJoon1157.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1157.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1157.cpp",
@@ -272,12 +280,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon1157.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAuwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-12T01:33:37.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T01:33:37.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "BaekJoon10809.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10809.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon10809.cpp",
@@ -285,12 +292,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon10809.cpp",
               "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-11T01:28:29.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T01:28:29.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BaekJoon2675.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon2675.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon2675.cpp",
@@ -298,23 +304,21 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon2675.cpp",
               "ViewState": "AgIAAAoAAAAAAAAAAAAmwB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-11T01:15:48.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T01:15:48.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Microsoft.CppBuild.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "ViewState": "AgIAAAwCAAAAAAAAAAAwwB0CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-10T05:18:56.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T05:18:56.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BaekJoon11000.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon11000.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon11000.cpp",
@@ -322,12 +326,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon11000.cpp",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwCAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-10T04:36:05.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T04:36:05.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BaekJoon1339.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1339.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1339.cpp",
@@ -335,12 +338,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon1339.cpp",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-07T01:29:09.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T01:29:09.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "BaekJoon10610.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10610.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon10610.cpp",
@@ -348,12 +350,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon10610.cpp",
               "ViewState": "AgIAAA0AAAAAAAAAAADwvyAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-04T02:20:17.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:20:17.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "BackJoon1806.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BackJoon1806.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BackJoon1806.cpp",
@@ -361,12 +362,11 @@
               "RelativeToolTip": "BaekJoonCode\\BackJoon1806.cpp",
               "ViewState": "AgIAAB0AAAAAAAAAAAAYwCsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T04:10:19.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T04:10:19.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "BaekJoon15649.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon15649.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon15649.cpp",
@@ -374,12 +374,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon15649.cpp",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwCsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-28T04:58:53.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T04:58:53.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "BaekJoon1946.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon1946.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon1946.cpp",
@@ -387,12 +386,11 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon1946.cpp",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwDYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-28T04:28:13.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T04:28:13.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BaekJoon10816.cpp",
               "DocumentMoniker": "D:\\GeonWoo\\Documents\\BeakJoonTestCode\\BaekJoonCode\\BaekJoon10816.cpp",
               "RelativeDocumentMoniker": "BaekJoonCode\\BaekJoon10816.cpp",
@@ -400,8 +398,7 @@
               "RelativeToolTip": "BaekJoonCode\\BaekJoon10816.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-28T04:06:03.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T04:06:03.91Z"
             }
           ]
         }
